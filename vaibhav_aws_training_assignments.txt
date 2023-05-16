@@ -1,0 +1,20 @@
+EC2 Instance Creation
+=====================
+
+1) Created an IAM user (Adminuser) with EC2 full Access.
+2) Logged in through that user (adminuser) and created an EC2 instance.
+3) Deleted (Terminated) the EC2 instance.
+4) Verified that the underlying volume (EBS volume) has also been deleted.
+
+AMAZON RDS Creation
+===================
+
+1) Created an AMAZON RDS with "t2.micro" and port number - 3306 under the dbname myrds (Used "Standard Create" option).
+2) Created an EC2 instance and connected to this RDS.
+3) Connected to the db and created a table and added few entries to the table.
+4) After DB is created and running, I tried to change the vpc, and subnet, but it did not allow it.
+
+AWS Organizations
+=================
+
+1) Provided my aws account id (614019201258) to the instructor and performed all the steps mentioned in the assigments.
