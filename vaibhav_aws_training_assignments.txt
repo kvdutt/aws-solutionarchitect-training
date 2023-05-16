@@ -17,4 +17,4 @@ AMAZON RDS Creation
 AWS Organizations
 =================
 
-1) Provided my aws account id (614019201258) to the instructor and performed all the steps mentioned in the assigments.
+1) Provided my aws account id (614019201258) to the instructor and performed all the steps mentioned in the assigments during the training session.
